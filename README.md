@@ -106,4 +106,9 @@ make game # compiles the game
 * Press \<ENTER\> after reading the rules to start the game.
 * When prompted to enter a coordinate, just type a number `0`, `1` or `2` and press \<ENTER\> to submit your move.
 
+To create docs, run:
+```bash
+make docs
+```
+
 ## Have fun!
